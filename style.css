@@ -1,0 +1,21 @@
+.container{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+label {
+    font-size: 20px;
+    width: 35%;
+}
+
+.dados-arquivo {
+    margin: 5% auto;
+    display: block;
+    width: 35%;
+    padding: 10px;
+}
+
+button {
+    width: 35%;
+}
